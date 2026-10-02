@@ -1,6 +1,6 @@
 # Repairs
 
-Fixes for common hardware issues with the Game Bub. These aren't mods — they're corrections for manufacturing defects or out-of-box problems.
+Fixes for common hardware issues with the Game Bub. 
 
 ---
 
