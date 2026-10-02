@@ -1,4 +1,4 @@
-# Game Bub Mods Wiki
+# Game Bub Wiki
 
 Community-compiled knowledge from the Game Bub Discord.
 
