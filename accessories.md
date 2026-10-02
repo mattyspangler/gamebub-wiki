@@ -22,17 +22,10 @@ Fits the Game Bub, according to joshuayoungipod.
 
 ### New 3DS XL Hard Shell (Smatree)
 
-The Game Bub is roughly the same dimensions as a 3DS XL, so these cases fit well. Two users confirm.
+The Game Bub is roughly the same dimensions as a 3DS XL.
 
 - **Where to buy:** [Amazon](https://www.amazon.com/dp/B01N7OGAM5)
 - **Sources:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1554498839766110280)
-
-### Mosiso Camera Case
-
-Fits both the Game Bub and the dock. Compartmentalized with adjustable dividers.
-
-- **Where to buy:** [Amazon](https://www.amazon.com/MOSISO-Camera-Compatible-Travel-Carrying/dp/B0CZ3XH2WY)
-- **Source:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556)
 
 ### AliExpress Hard Shell
 
@@ -50,15 +43,7 @@ Custom box made from a MakerWorld template, adjusted to Game Bub dimensions plus
 
 ### Nintendo DS Drawstring Bag
 
-Fits the Game Bub. You might already have one.
-
 - **Source:** [thatjon](https://discord.com/channels/1363136046757318927/1466970817954054205/1553951228361310270)
-
-### Switch Lite Case
-
-Works as a short-term solution if you own one already.
-
-- **Source:** [eggy_noggy](https://discord.com/channels/1363136046757318927/1466970817954054205/1551684855580852334)
 
 ---
 
@@ -74,8 +59,6 @@ The screen is approximately 114mm × 80mm with 2.5mm radius rounded corners. No 
 
 ### Custom Cut Services
 
-Send your dimensions for a perfect fit.
-
 | Service | What they do |
 |---------|-------------|
 | [Hianjoo](https://www.amazon.com/Hianjoo-Protector-295mm×210mm-Anti-scratch-Protective/dp/B0G2C3R5KC) | Buy a sheet, cut it yourself |
@@ -90,7 +73,9 @@ Send your dimensions for a perfect fit.
 
 ## 3D Printed Grip
 
-Ergonomic grip by backlogbusters. Print it yourself or order from a print service.
+Ergonomic grip by backlogbusters.
+
+![Game Bub Grip](images/game-bub-grip.png)
 
 - **Model:** [MakerWorld](https://makerworld.com/en/models/3266175-game-bub-grip)
 - **Sources:** [backlogbusters](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1545875366571155576) · [hyruleking222](https://discord.com/channels/1363136046757318927/1466970817954054205/1547697719215399083)

@@ -4,7 +4,7 @@
 
 ## Fix D-Pad Responsiveness
 
-The d-pad can feel stiff, diagonals may not register well, or one direction might be less clicky than the others. There are a few different things that can cause this.
+The d-pad can feel stiff, diagonals may not register well, or one direction might be less clicky than the others. There are a few different things that can cause this, and a few things people have tried.
 
 ### Middle Pivot Peg Too Tall
 
@@ -28,63 +28,51 @@ The plastic posts inside the shell that the PCB sits on can be different heights
 
 ### Uneven Actuator Pegs
 
-Some factory d-pads have one actuator peg that's thinner than the other three. That direction feels less responsive and less clicky. The fix is to 3D print a replacement from the official STL.
+Some factory d-pads have one actuator peg that's thinner than the other three. That direction feels less responsive and less clicky. The fix here is a replacement d-pad — see below.
 
 - davedane — [photo of thin peg](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974164220739685)
 - klazo — [confirmed same defect](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
 - lag4221 — [confirmed one leg was different](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
 - aalu29605 — [asked if all dpads have this](https://discord.com/channels/1363136046757318927/1466970817954054205/1547263257520111769)
 
----
+### Tape as a Temporary Fix
 
-## Tape Mod for D-Pad Responsiveness
+Some people have put thin tape on the d-pad pegs or around the membrane to improve contact without filing anything. It helps at first but wears through with use, so it's not a lasting fix.
 
 > "after enough playtime the tapes beginning to wear through and diagonals are steadily getting harder to input" — klazo
 
-> "I tried putting tape beneath the middle post too but then I couldn't press any directions" — davedane
+- klazo — [initial experiment with tape](https://discord.com/channels/1363136046757318927/1466970817954054205/1544099293219135518), [tape wearing through](https://discord.com/channels/1363136046757318927/1466970817954054205/1545263911475880057)
+- davedane — [tried tape under the middle post, didn't work](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121)
 
-- klazo — [initial experiments with tape](https://discord.com/channels/1363136046757318927/1466970817954054205/1544099293219135518), [tape wearing through](https://discord.com/channels/1363136046757318927/1466970817954054205/1545263911475880057)
-- davedane — [tried tape under middle post, didn't work](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121)
+### Replacing the D-Pad Entirely
 
----
-
-## 3D Printed / Resin Replacement D-Pad
+If filing doesn't fix it, or the peg defect is bad enough, some people have ordered 3D printed or resin replacement d-pads instead.
 
 > "Open source hardware rocks! I can order new 3D printed or resin D-pads from anywhere! (the factory D-pad was faulty)" — davedane
 
-> "I love the d-pad resin prints you did. Makes me want to get custom colors ordered. I would even like to consider a fancier shell." — wavebeam64
-
-> "i wish i had access to several dpads for experimentation but for now this is just my speculation" — klazo
-
-- **Source:** [button_dpad.stl](https://github.com/gamebub/gamebub-mechanical/blob/main/handheld_rev4/button_dpad.stl)
+- **Source file:** [button_dpad.stl](https://github.com/gamebub/gamebub-mechanical/blob/main/handheld_rev4/button_dpad.stl)
 - davedane — [ordered multiple resin prints](https://discord.com/channels/1363136046757318927/1466970817954054205/1543904286172512387), [comparison photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974068292947988)
-- wavebeam64 — [ordered resin prints](https://discord.com/channels/1363136046757318927/1466970817954054205/1546894919187304509), [tested at 0.08mm layer height](https://discord.com/channels/1363136046757318927/1466970817954054205/1547115451945844919)
-- klazo — [planning to order printed dpads for experimentation](https://discord.com/channels/1363136046757318927/1466970817954054205/1544099293219135518)
-- forcen — [looking for local 3D printers](https://discord.com/channels/1363136046757318927/1466970817954054205/1546533707039375370)
+- wavebeam64 — [ordered resin prints, tested at 0.08mm layer height](https://discord.com/channels/1363136046757318927/1466970817954054205/1547115451945844919)
 
 ---
 
-## Button Rattle Silencing
+## Button Rattle Silencing / Shoulder Spring Swap
 
-> "If you want to silence the rattling buttons (in my case: power, volume, start, reset, menu) you can fold some paper and put it between the button and the switch. Works perfectly. The folding depends on the thikness of the paper and its easier if you tape the folded paper in itself with some double sided tape." — .h4xx0r.
+Both of these came from the same post. For rattling buttons (power, volume, start, reset, menu), fold a small piece of paper and place it between the button and the switch — tape the paper to itself so it's easier to position. For the shoulder buttons, swapping in Cherry MX clear switch springs makes them stiffer.
+
+> "If you want to silence the rattling buttons you can fold some paper and put it between the button and the switch. Works perfectly... And for the shoulder buttons the Cherry MX switch spring fits perfectly. Used some to make them more stiff (MX clear)." — .h4xx0r.
 
 - .h4xx0r. — [original report](https://discord.com/channels/1363136046757318927/1466970817954054205/1544421608683212892)
 
 ---
 
-## Shoulder Button Spring Replacement (Cherry MX)
+## Grip Tape / Texture on the Back
 
-> "And for the shoulder buttons the Cherry MX switch spring fits perfectly. Used some to make them more stiff (MX clear)." — .h4xx0r.
-
-- .h4xx0r. — [original report](https://discord.com/channels/1363136046757318927/1466970817954054205/1544421608683212892)
-
----
-
-## Grip Tape / Texture on Back
+A few people have tried adding texture to the back of the shell for better grip, since the stock plastic is slick.
 
 > "i think the ergonomics are fine but adding Texture to the back would help" — bigoli126
 
-- bigoli126 — [discussion about grip tape and sanding](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486307650969630)
+- bigoli126 — [grip tape and sanding discussion](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486307650969630)
 - davedane — [suggested double-sided tape with textured plastic plates](https://discord.com/channels/1363136046757318927/1466970817954054205/1545490052476571659)
 - virtualmango — [posted grip experiments with photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486162880372889)
 
@@ -92,10 +80,7 @@ Some factory d-pads have one actuator peg that's thinner than the other three. T
 
 ## Polycarbonate Spray Paint (Translucent Color)
 
-Spray the inside of the clear shell with polycarbonate-safe spray paint for a translucent colored effect. No paint feel on hands since it's on the interior.
-
-- **Paint:** Tamiya PS-45 (and other PS-series polycarbonate paints)
-- **Method:** Remove shell, tape off exterior, spray inside surface
+You can spray the inside of the clear shell with polycarbonate-safe spray paint to get a translucent colored look without any paint feel on the outside, since you're only painting the interior surface. esmith13 used Tamiya PS-45 on Odroid handhelds (also clear plastic shells) with good results — the paint goes on and stays translucent.
 
 > "I made my original Odroid handhelds sort of an atomic purple by removing the shells and taping them off so I could spray the insides of them with Tamiya PS-45 spray paint meant for polycarbonate. It goes on and remains translucent." — esmith13
 
