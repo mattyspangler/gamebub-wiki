@@ -4,5 +4,6 @@
 
 Community-compiled knowledge from the Game Bub Discord.
 
+- [Fixes & Repairs](repairs.md)
 - [Mods](mods.md)
 - [Accessories](accessories.md)
