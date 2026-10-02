@@ -2,44 +2,38 @@
 
 ---
 
-## D-Pad Fix: Filing the Middle Peg / Case Posts
+## Fix D-Pad Responsiveness
 
-### Method A: File the D-Pad's Middle Pivot Peg
+The d-pad can feel stiff, diagonals may not register well, or one direction might be less clicky than the others. There are a few different things that can cause this.
+
+### Middle Pivot Peg Too Tall
+
+The center peg on the underside of the d-pad can be too tall. It props the d-pad up so the directional pegs don't fully reach the switches, especially when pressing diagonals. Filing the center peg down a little fixes this.
 
 > "What finally seems to have done the trick was to file down the D-pad's middle post just a little bit." — davedane
 
-> "I had initially experimented with putting tape on the membrane but it didnt stick so i decided to put tape on the parts around the membrane instead" — klazo
-
-> "it seems pretty evident to me that the stock dpad is defective because it doesn't match the stl file on the project" — wavebeam64
-
 - davedane — [initial report](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121), [filing photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1544794555348549652)
 - klazo — [confirmed same issue, filed the peg](https://discord.com/channels/1363136046757318927/1466970817954054205/1545263911475880057)
-- wavebeam64 — [tried v2 files, says stock dpad is defective](https://discord.com/channels/1363136046757318927/1466970817954054205/1547268476375142530)
+- wavebeam64 — [confirmed the stock dpad doesn't match project STL](https://discord.com/channels/1363136046757318927/1466970817954054205/1547268476375142530)
 
-### Method B: Trim Uneven Case Posts Around the D-Pad
+### Uneven Case Posts
+
+The plastic posts inside the shell that the PCB sits on can be different heights around the d-pad area. This tilts the board so it doesn't make even contact with the d-pad. Check which posts are taller and file them level.
 
 > "For the DIY users I recommend that you try to spot which stems are higher than others instead of just filing down them all." — davedane
 
-> "I don't see them misaligned but maybe it's too little to tell and a little is enough? idk" — nelson.no
-
-> "it kind of just depends on how your case is, whether one needs to be shortened to match the others, or they're all a bit long" — eli.eli.eli
-
 - davedane — [instructions and photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1544669281935958109)
 - nelson.no — [attempted the trim](https://discord.com/channels/1363136046757318927/1466970817954054205/1544781056555880538)
-- eli.eli.eli — originally gave guidance in another channel (not in modding-and-diy scrape)
+- eli.eli.eli — originally gave guidance in another channel
 
-### Known Defect: Uneven D-Pad Actuator Pegs
+### Uneven Actuator Pegs
 
-> "the peg on the right is thinner" — klazo
-
-> "ye one of the plastic legs on mine was larger, and it did actually fix the major problem where when i fully pressed left it would push down, but i did notice the side of the dpad that was different was sinking in a bit more" — lag4221
-
-> "I wonder why the dpad was designed with one peg different from the other three" — aalu29605
+Some factory d-pads have one actuator peg that's thinner than the other three. That direction feels less responsive and less clicky. The fix is to 3D print a replacement from the official STL.
 
 - davedane — [photo of thin peg](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974164220739685)
-- klazo — [confirmed same issue](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
-- lag4221 — [confirmed one leg was larger/different](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
-- aalu29605 — [asked if all dpads are like this](https://discord.com/channels/1363136046757318927/1466970817954054205/1547263257520111769)
+- klazo — [confirmed same defect](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
+- lag4221 — [confirmed one leg was different](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
+- aalu29605 — [asked if all dpads have this](https://discord.com/channels/1363136046757318927/1466970817954054205/1547263257520111769)
 
 ---
 
