@@ -90,32 +90,19 @@
 
 > "i think the ergonomics are fine but adding Texture to the back would help" — bigoli126
 
-> "last time i used grip tape it felt too rubbery so something that feels better would be nice" — bigoli126
-
-> "Perhaps this kind of double-sided tape ... with textured plastic plates on" — davedane
-
-> "Been playing around with options for having dumb hands that don't fit normal handhelds." — virtualmango
-
-- bigoli126 — [grip tape / sanding discussion](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486307650969630)
-- davedane — [tape + plastic plates idea](https://discord.com/channels/1363136046757318927/1466970817954054205/1545490052476571659)
-- virtualmango — [grip options with photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486162880372889)
+- bigoli126 — [discussion about grip tape and sanding](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486307650969630)
+- davedane — [suggested double-sided tape with textured plastic plates](https://discord.com/channels/1363136046757318927/1466970817954054205/1545490052476571659)
+- virtualmango — [posted grip experiments with photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486162880372889)
 
 ---
 
 ## Polycarbonate Spray Paint (Translucent Color)
 
+Spray the inside of the clear shell with polycarbonate-safe spray paint for a translucent colored effect. No paint feel on hands since it's on the interior.
+
+- **Paint:** Tamiya PS-45 (and other PS-series polycarbonate paints)
+- **Method:** Remove shell, tape off exterior, spray inside surface
+
 > "I made my original Odroid handhelds sort of an atomic purple by removing the shells and taping them off so I could spray the insides of them with Tamiya PS-45 spray paint meant for polycarbonate. It goes on and remains translucent." — esmith13
 
-> "Since it's the inside you would paint, you get an interesting visual effect from raised studs inside and zero risk of your hands wearing it off or not liking the paint feel." — esmith13
-
-> "uh...no. You're probably thinking about textile dye which requires carefully heated water to work. This is just spray paint" — wavebuster
-
-> "thats not the thing that deforms plastic right?" — forcen
-
-> "Textile dye just works on plastic in general btw." — bainelf
-
-- esmith13 — [tried on Odroid, suggested for Game Bub](https://discord.com/channels/1363136046757318927/1466970817954054205/1535344215872118935)
-- wavebeam64 — [interested in seeing results](https://discord.com/channels/1363136046757318927/1466970817954054205/1535334865010950273)
-- wavebuster — [asked about Game Bub specifically](https://discord.com/channels/1363136046757318927/1466970817954054205/1541894522349555862)
-- forcen — [confirmed safe for plastic](https://discord.com/channels/1363136046757318927/1466970817954054205/1541894862788370483)
-- bainelf — [noted textile dye alternative](https://discord.com/channels/1363136046757318927/1466970817954054205/1535376430865846484)
+- esmith13 — [confirmed technique on transparent Odroid handhelds](https://discord.com/channels/1363136046757318927/1466970817954054205/1535344215872118935)
