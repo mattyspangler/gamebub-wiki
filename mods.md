@@ -10,15 +10,19 @@ The d-pad can feel stiff, diagonals may not register well, or one direction migh
 
 The center peg on the underside of the d-pad can be too tall. It props the d-pad up so the directional pegs don't fully reach the switches, especially when pressing diagonals. Filing the center peg down a little fixes this.
 
+![Filing the d-pad center peg](images/dpad-filing.jpg)
+
 > "What finally seems to have done the trick was to file down the D-pad's middle post just a little bit." — davedane
 
-- davedane — [initial report](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121), [filing photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1544794555348549652)
+- davedane — [initial report](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121)
 - klazo — [confirmed same issue, filed the peg](https://discord.com/channels/1363136046757318927/1466970817954054205/1545263911475880057)
 - wavebeam64 — [confirmed the stock dpad doesn't match project STL](https://discord.com/channels/1363136046757318927/1466970817954054205/1547268476375142530)
 
 ### Uneven Case Posts
 
 The plastic posts inside the shell that the PCB sits on can be different heights around the d-pad area. This tilts the board so it doesn't make even contact with the d-pad. Check which posts are taller and file them level.
+
+![Uneven case posts inside the shell](images/uneven-posts.jpg)
 
 > "For the DIY users I recommend that you try to spot which stems are higher than others instead of just filing down them all." — davedane
 
@@ -28,12 +32,19 @@ The plastic posts inside the shell that the PCB sits on can be different heights
 
 ### Uneven Actuator Pegs
 
-Some factory d-pads have one actuator peg that's thinner than the other three. That direction feels less responsive and less clicky. The fix here is a replacement d-pad — see below.
+Some factory d-pads have one actuator peg that's thinner than the other three. That direction feels less responsive and less clicky. Filing won't fix this — the peg itself is physically too short — so the real fix is printing a replacement d-pad from the open source STL.
 
-- davedane — [photo of thin peg](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974164220739685)
-- klazo — [confirmed same defect](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
-- lag4221 — [confirmed one leg was different](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
-- aalu29605 — [asked if all dpads have this](https://discord.com/channels/1363136046757318927/1466970817954054205/1547263257520111769)
+![Thinner d-pad peg comparison](images/dpad-thin-peg.jpg)
+![Factory vs resin d-pad comparison](images/resin-dpads-comparison.jpg)
+
+> "Open source hardware rocks! I can order new 3D printed or resin D-pads from anywhere! (the factory D-pad was faulty)" — davedane
+
+![Resin 3D printed d-pad](images/resin-dpads-wavebeam64.jpg)
+
+- **STL file:** [button_dpad.stl](https://github.com/gamebub/gamebub-mechanical/blob/main/handheld_rev4/button_dpad.stl)
+- davedane — found the thin peg, [ordered resin prints](https://discord.com/channels/1363136046757318927/1466970817954054205/1543904286172512387), [comparison photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974068292947988)
+- wavebeam64 — [ordered resin prints, confirmed clickiness much better](https://discord.com/channels/1363136046757318927/1466970817954054205/1547040255604035655)
+- lag4221 — [confirmed one leg was different on his](https://discord.com/channels/1363136046757318927/1466970817954054205/1545039897948201021)
 
 ### Tape as a Temporary Fix
 
@@ -43,16 +54,6 @@ Some people have put thin tape on the d-pad pegs or around the membrane to impro
 
 - klazo — [initial experiment with tape](https://discord.com/channels/1363136046757318927/1466970817954054205/1544099293219135518), [tape wearing through](https://discord.com/channels/1363136046757318927/1466970817954054205/1545263911475880057)
 - davedane — [tried tape under the middle post, didn't work](https://discord.com/channels/1363136046757318927/1466970817954054205/1544093109665669121)
-
-### Replacing the D-Pad Entirely
-
-If filing doesn't fix it, or the peg defect is bad enough, some people have ordered 3D printed or resin replacement d-pads instead.
-
-> "Open source hardware rocks! I can order new 3D printed or resin D-pads from anywhere! (the factory D-pad was faulty)" — davedane
-
-- **Source file:** [button_dpad.stl](https://github.com/gamebub/gamebub-mechanical/blob/main/handheld_rev4/button_dpad.stl)
-- davedane — [ordered multiple resin prints](https://discord.com/channels/1363136046757318927/1466970817954054205/1543904286172512387), [comparison photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1543974068292947988)
-- wavebeam64 — [ordered resin prints, tested at 0.08mm layer height](https://discord.com/channels/1363136046757318927/1466970817954054205/1547115451945844919)
 
 ---
 
@@ -66,21 +67,11 @@ Both of these came from the same post. For rattling buttons (power, volume, star
 
 ---
 
-## Grip Tape / Texture on the Back
-
-A few people have tried adding texture to the back of the shell for better grip, since the stock plastic is slick.
-
-> "i think the ergonomics are fine but adding Texture to the back would help" — bigoli126
-
-- bigoli126 — [grip tape and sanding discussion](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486307650969630)
-- davedane — [suggested double-sided tape with textured plastic plates](https://discord.com/channels/1363136046757318927/1466970817954054205/1545490052476571659)
-- virtualmango — [posted grip experiments with photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1545486162880372889)
-
----
-
 ## Polycarbonate Spray Paint (Translucent Color)
 
 You can spray the inside of the clear shell with polycarbonate-safe spray paint to get a translucent colored look without any paint feel on the outside, since you're only painting the interior surface. esmith13 used Tamiya PS-45 on Odroid handhelds (also clear plastic shells) with good results — the paint goes on and stays translucent.
+
+![Odroid shell painted translucent purple with Tamiya PS-45](images/spray-paint-odroid.jpg)
 
 > "I made my original Odroid handhelds sort of an atomic purple by removing the shells and taping them off so I could spray the insides of them with Tamiya PS-45 spray paint meant for polycarbonate. It goes on and remains translucent." — esmith13
 

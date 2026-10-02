@@ -1,4 +1,6 @@
-# Game Bub Wiki
+# Game Bub Community Wiki
+
+![Game Bub](images/gamebub-hero.jpg)
 
 Community-compiled knowledge from the Game Bub Discord.
 

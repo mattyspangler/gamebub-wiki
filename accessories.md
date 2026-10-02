@@ -6,12 +6,16 @@
 
 ### Amazon Hard Case
 
+![Amazon hard case](images/amazon-hard-case.jpg)
+
 Soltan_g42 bought this one based on community recommendations and says it works fine.
 
 - **Where to buy:** [Amazon](https://www.amazon.com/dp/B0B1LCPZNP)
 - **Source:** [soltan_g42](https://discord.com/channels/1363136046757318927/1466970817954054205/1551698259624329216)
 
 ### Anbernic RG 477M Protective Bag
+
+![Anbernic RG protective bag](images/anbernic-rg-carrying-bag.jpg)
 
 Fits the Game Bub, according to joshuayoungipod.
 
@@ -24,12 +28,19 @@ Fits the Game Bub, according to joshuayoungipod.
 
 The Game Bub is roughly the same dimensions as a 3DS XL.
 
+![New 3DS XL hard shell case](images/smatree-3ds-xl-case.jpg)
+![New 3DS XL case with Game Bub](images/3ds-xl-case-1.jpg)
+![New 3DS XL case with Game Bub](images/3ds-xl-case-2.jpg)
+
 - **Where to buy:** [Amazon](https://www.amazon.com/dp/B01N7OGAM5)
-- **Sources:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1554498839766110280)
+- **Photos:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556)
+- **Also confirmed by:** [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1554498839766110280)
 
 ### AliExpress Hard Shell
 
 Affordable option. Fold the flap down for extra top padding.
+
+![AliExpress hard shell case](images/aliexpress-hard-shell.jpg)
 
 - **Where to buy:** [AliExpress](https://www.aliexpress.us/item/3256809721005290.html)
 - **Sources:** [absentminded.](https://discord.com/channels/1363136046757318927/1466970817954054205/1553066725027618858) · [forcen](https://discord.com/channels/1363136046757318927/1466970817954054205/1553694255996997642)
@@ -37,6 +48,9 @@ Affordable option. Fold the flap down for extra top padding.
 ### 3D Printed Storage Box
 
 Custom box made from a MakerWorld template, adjusted to Game Bub dimensions plus 1mm tolerance.
+
+![3D printed storage box](images/3d-printed-storage-box-1.jpg)
+![3D printed storage box](images/3d-printed-storage-box-2.jpg)
 
 - **Where to get the model:** [MakerWorld](https://makerworld.com/en/models/1788161-customizable-storage-box)
 - **Source:** [angelicliver](https://discord.com/channels/1363136046757318927/1466970817954054205/1554474783046111252)
@@ -75,7 +89,8 @@ The screen is approximately 114mm × 80mm with 2.5mm radius rounded corners. No 
 
 Ergonomic grip by backlogbusters.
 
-![Game Bub Grip](images/game-bub-grip.png)
+![Game Bub Grip by backlogbusters](images/grip-creator-1.jpeg)
 
 - **Model:** [MakerWorld](https://makerworld.com/en/models/3266175-game-bub-grip)
-- **Sources:** [backlogbusters](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1545875366571155576) · [hyruleking222](https://discord.com/channels/1363136046757318927/1466970817954054205/1547697719215399083)
+- **Creator:** [backlogbusters](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394) — [additional photos](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394)
+- **Users who tested this accessory:** [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1545875366571155576) · [hyruleking222](https://discord.com/channels/1363136046757318927/1466970817954054205/1547697719215399083)
