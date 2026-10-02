@@ -2,78 +2,95 @@
 
 ---
 
-## Carrying Cases & Storage
+## Carrying Cases
 
 ### Amazon Hard Case
 
-- [Amazon](https://www.amazon.com/dp/B0B1LCPZNP)
-- soltan_g42 — ["Some people here recommended a case that looked like this one. This is the one I ordered and it works fine."](https://discord.com/channels/1363136046757318927/1466970817954054205/1551698259624329216)
+Soltan_g42 bought this one based on community recommendations and says it works fine.
+
+- **Where to buy:** [Amazon](https://www.amazon.com/dp/B0B1LCPZNP)
+- **Source:** [soltan_g42](https://discord.com/channels/1363136046757318927/1466970817954054205/1551698259624329216)
 
 ### Anbernic RG 477M Protective Bag
 
-- [Anbernic](https://anbernic.com/products/protective-bag-for-rg-477m)
-- joshuayoungipod — ["bought this case last week and it came in yesterday. fits the bub perfectly!"](https://discord.com/channels/1363136046757318927/1466970817954054205/1553054853230493856)
+Fits the Game Bub, according to joshuayoungipod.
 
-### New 3DS XL Hard Shell Case (Smatree)
+> "bought this case last week and it came in yesterday. fits the bub perfectly!"
 
-- [Amazon](https://www.amazon.com/dp/B01N7OGAM5)
-- haxertomb — ["The gamebub is roughly the same dimensions as the 3ds XL so I found it to be a good fit."](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556)
-- davedane — ["That 3DS (XL?) case seems to be a surprisingly good fit!"](https://discord.com/channels/1363136046757318927/1466970817954054205/1554498839766110280)
+- **Where to buy:** [Anbernic](https://anbernic.com/products/protective-bag-for-rg-477m)
+- **Source:** [joshuayoungipod](https://discord.com/channels/1363136046757318927/1466970817954054205/1553054853230493856)
 
-### Mosiso Camera Case (for Game Bub + Dock)
+### New 3DS XL Hard Shell (Smatree)
 
-- [Amazon](https://www.amazon.com/MOSISO-Camera-Compatible-Travel-Carrying/dp/B0CZ3XH2WY)
-- haxertomb — ["For storage of both the gamebub and the dock my choice was this generalized camera case which let me divvy up compartments."](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556)
+The Game Bub is roughly the same dimensions as a 3DS XL, so these cases fit well. Two users confirm.
 
-### Hard Shell Case (AliExpress)
+- **Where to buy:** [Amazon](https://www.amazon.com/dp/B01N7OGAM5)
+- **Sources:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1554498839766110280)
 
-- [AliExpress](https://www.aliexpress.us/item/3256809721005290.html)
-- absentminded. — ["Also got this case, fits really well, especially if you fold the flap down within it to give the top some extra padding"](https://discord.com/channels/1363136046757318927/1466970817954054205/1553066725027618858)
-- forcen — ["which one of these fit the best again?"](https://discord.com/channels/1363136046757318927/1466970817954054205/1553694255996997642)
+### Mosiso Camera Case
 
-### Custom 3D Printed Storage Box
+Fits both the Game Bub and the dock. Compartmentalized with adjustable dividers.
 
-- [MakerWorld template](https://makerworld.com/en/models/1788161-customizable-storage-box)
-- angelicliver — ["If it's of any help to anyone, I 3D printed a case."](https://discord.com/channels/1363136046757318927/1466970817954054205/1554474783046111252)
+- **Where to buy:** [Amazon](https://www.amazon.com/MOSISO-Camera-Compatible-Travel-Carrying/dp/B0CZ3XH2WY)
+- **Source:** [haxertomb](https://discord.com/channels/1363136046757318927/1466970817954054205/1554302557214613556)
+
+### AliExpress Hard Shell
+
+Affordable option. Fold the flap down for extra top padding.
+
+- **Where to buy:** [AliExpress](https://www.aliexpress.us/item/3256809721005290.html)
+- **Sources:** [absentminded.](https://discord.com/channels/1363136046757318927/1466970817954054205/1553066725027618858) · [forcen](https://discord.com/channels/1363136046757318927/1466970817954054205/1553694255996997642)
+
+### 3D Printed Storage Box
+
+Custom box made from a MakerWorld template, adjusted to Game Bub dimensions plus 1mm tolerance.
+
+- **Where to get the model:** [MakerWorld](https://makerworld.com/en/models/1788161-customizable-storage-box)
+- **Source:** [angelicliver](https://discord.com/channels/1363136046757318927/1466970817954054205/1554474783046111252)
 
 ### Nintendo DS Drawstring Bag
 
-- thatjon — ["I have a drawstring bag that I got from Nintendo years ago for the DS. Fits like a glove."](https://discord.com/channels/1363136046757318927/1466970817954054205/1553951228361310270)
+Fits the Game Bub. You might already have one.
 
-### Nintendo Switch Lite Case
+- **Source:** [thatjon](https://discord.com/channels/1363136046757318927/1466970817954054205/1553951228361310270)
 
-- eggy_noggy — ["for the time being, i just use my old switch lite case and it seems to work as a short term solution"](https://discord.com/channels/1363136046757318927/1466970817954054205/1551684855580852334)
+### Switch Lite Case
 
-## Screen Protectors
+Works as a short-term solution if you own one already.
 
-The Game Bub screen is approximately 114mm × 80mm with 2.5mm radius rounded corners. No commercial screen protector is made specifically for it.
-
-### AliExpress X20R Glass Protector
-
-- [AliExpress](https://www.aliexpress.us/item/3256812162673273.html)
-- yadayo — ["I got this one (X20R option) but it doesn't match the edges perfectly, but still pretty much fits"](https://discord.com/channels/1363136046757318927/1466970817954054205/1554851010902626415)
-- wenwald — ["The major issue would be if the protector overhangs the screen imo. Underhang is fine. Bezels are big already"](https://discord.com/channels/1363136046757318927/1466970817954054205/1554852509049290827)
-
-### Custom Cut Options
-
-| Service | Link | Method |
-|---------|------|--------|
-| Hianjoo | [Amazon](https://www.amazon.com/Hianjoo-Protector-295mm×210mm-Anti-scratch-Protective/dp/B0G2C3R5KC) | Buy sheet, cut yourself |
-| Photodon | [photodon.com](https://www.photodon.com/custom-screen-protector.html) | Send dimensions, they cut |
-| ViaScreens | [viascreens.com](https://viascreens.com/custom) | Send dimensions, they cut |
-
-**Dimensions:** 114mm × 80mm, 2.5mm radius rounded corners
-
-- hopemechanic — ["I'm converging on one of these options"](https://discord.com/channels/1363136046757318927/1466970817954054205/1543468556073832468)
-- j_f_c — ["I have the dimensions manually measured to 114 x 80 mm, but am unsure about radius."](https://discord.com/channels/1363136046757318927/1466970817954054205/1543692341389566132), [confirmed LCD drawing](https://discord.com/channels/1363136046757318927/1466970817954054205/1543714431337504799)
-- virtualmango — ["Anyone find a decent screen protector yet?"](https://discord.com/channels/1363136046757318927/1466970817954054205/1543434835379359807)
-- duskstones — ["Does anyone know if there are any screen protectors to fit the game bub screen, or if a screen protector is necessary for it?"](https://discord.com/channels/1363136046757318927/1466970817954054205/1554829158318866493)
+- **Source:** [eggy_noggy](https://discord.com/channels/1363136046757318927/1466970817954054205/1551684855580852334)
 
 ---
 
-## 3D Printed Game Bub Grip
+## Screen Protectors
 
-- [MakerWorld](https://makerworld.com/en/models/3266175-game-bub-grip) by backlogbusters
-- backlogbusters — ["I just finished up making this custom Game Bub Grip, if anyone has a printer and is interested in trying it out and giving me feedback on what to change or improve I would appreciate it!"](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394)
-- davedane — ["I was asking because a similar grip I have for my Odin 1 has a not-too-comfortable edge at that same spot - but your grip does not so thumbs up!"](https://discord.com/channels/1363136046757318927/1466970817954054205/1545875366571155576)
-- hyruleking222 — ["My wife did the felt. She's been a crafter's assistant to her mom since she could walk. I ended up sanding the back edge and bottoms of the grips"](https://discord.com/channels/1363136046757318927/1466970817954054205/1547697719215399083)
+The screen is approximately 114mm × 80mm with 2.5mm radius rounded corners. No protector is made specifically for the Game Bub.
+
+### Pre-Made Option
+
+- **AliExpress X20R Glass Protector** — doesn't match the edges perfectly but covers the display area. Underhang is fine since the bezels are large.
+  - [Buy here](https://www.aliexpress.us/item/3256812162673273.html)
+  - **Sources:** [yadayo](https://discord.com/channels/1363136046757318927/1466970817954054205/1554851010902626415) · [wenwald](https://discord.com/channels/1363136046757318927/1466970817954054205/1554852509049290827)
+
+### Custom Cut Services
+
+Send your dimensions for a perfect fit.
+
+| Service | What they do |
+|---------|-------------|
+| [Hianjoo](https://www.amazon.com/Hianjoo-Protector-295mm×210mm-Anti-scratch-Protective/dp/B0G2C3R5KC) | Buy a sheet, cut it yourself |
+| [Photodon](https://www.photodon.com/custom-screen-protector.html) | You send dimensions, they cut and ship |
+| [ViaScreens](https://viascreens.com/custom) | You send dimensions, they cut and ship |
+
+**Dimensions to provide:** 114mm × 80mm, 2.5mm radius rounded corners
+
+- **Sources:** [hopemechanic](https://discord.com/channels/1363136046757318927/1466970817954054205/1543468556073832468) · [j_f_c](https://discord.com/channels/1363136046757318927/1466970817954054205/1543692341389566132) · [j_f_c (LCD drawing)](https://discord.com/channels/1363136046757318927/1466970817954054205/1543714431337504799)
+
+---
+
+## 3D Printed Grip
+
+Ergonomic grip by backlogbusters. Print it yourself or order from a print service.
+
+- **Model:** [MakerWorld](https://makerworld.com/en/models/3266175-game-bub-grip)
+- **Sources:** [backlogbusters](https://discord.com/channels/1363136046757318927/1466970817954054205/1545857348818571394) · [davedane](https://discord.com/channels/1363136046757318927/1466970817954054205/1545875366571155576) · [hyruleking222](https://discord.com/channels/1363136046757318927/1466970817954054205/1547697719215399083)
